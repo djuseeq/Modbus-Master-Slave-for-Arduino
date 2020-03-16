@@ -2,7 +2,10 @@
  * ModbusRtu.cpp
  *
  *  Created on: Mar 16, 2020
- *      Author: djusee
+ *      Author: Samuel Marco i Armengol
+ *      @contribution Helium6072
+ *      @contribution gabrielsan
+ *      @contribution djusee
  */
 
 #include "ModbusRtu.h"
